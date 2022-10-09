@@ -1,0 +1,167 @@
+body{
+    font-family: sans-serif;
+    background-color: #202124;
+}
+
+#top_right{
+    position: absolute;
+    right: 1%;
+    top: 2%;
+    
+}
+#gmail{
+    color: white;
+    text-decoration:none;
+}
+#gmail:hover{
+    text-decoration:underline ;
+
+}
+#image{
+    color: white;
+    text-decoration:none;
+}
+#image:hover{
+    text-decoration: underline;
+}
+#sign_in{
+    color: black;
+    background-color: #1a73e8;
+    width: 100px; 
+    block-size: 38px; 
+    font-size: small; 
+    border-radius:5px;
+}
+#sing_in:hover{
+    background-color: white;
+    
+}
+#logo{
+    position: absolute;
+    top: 27.6%;
+    right: 42.8%;
+    width:14.35%;
+}
+
+.search{
+    position: absolute;
+    top: 40%;
+    right: 34.6%;
+    background: none;
+    color: white;
+    width: 30%;
+    block-size:4%;
+    font-size: small;    
+    border-color: grey;
+    border-radius: 100px;
+    
+}
+.search:hover{
+    background-color: rgba(128, 128, 128, 0.468);
+    border: none;
+}
+#search_tool{
+    width: 35%;
+}
+
+#search_icon{
+    position: absolute;
+    top: 41.5%;
+    right: 63%;
+    background: none;
+    width: 1%;
+    background:none;
+    padding-right: 2px;
+}
+#search_bar{
+    width: 30%;
+}
+#mic_icon{
+
+    position: absolute;
+    top: 41%;
+    right: 35.5%;
+    width: 1.5%;
+}
+#search_button{
+    position:absolute;
+    top: 48%;
+    right: 43%;
+    width: 15%;
+    block-size: 3.65%;
+}
+.but:hover{
+    border-color: rgba(128, 128, 128, 0.661);
+}
+.but{
+    color:white; 
+    background:#303134; 
+    block-size:100%; 
+    width:45% ;
+    border-radius:5px; 
+    border:0px; 
+    font-size: 80%;
+    
+    
+}
+.butt{
+    color:white; 
+    background:#303134; 
+    block-size: 100%; 
+    width:45%;
+    border-radius:5px; 
+    border:0px; 
+    font-size:70%;
+   font: optional;
+    
+}
+#language{
+    position: absolute;
+    top: 53.5%;
+    right: 35.7%;
+   width: 28.3% ;
+   font-size:80%;
+}
+#fotter{
+    position: absolute;
+    bottom: 0%;
+    width: 99%;
+   background-color: #171717;
+   block-size: 50px;
+   
+}
+.nav-link{
+   
+    color: grey;
+    text-decoration: none;
+}
+.navbar-nav{
+    position: absolute;
+    bottom: 30%;
+    left: 2%;
+}
+.nav-link-right{
+   
+    color: grey;
+    text-decoration: none;
+}
+.navbar-nav-right{
+    position: absolute;
+    bottom: 30%;
+    right: 2%;
+}
+#fotter-up{
+    position: absolute;
+    bottom: 5.4%;
+    width: 99%;
+   background-color: #171717;
+   block-size: 50px;
+   border-bottom-color: grey;
+   
+}
+#india{
+    position: absolute;
+    bottom: 10%;
+    left: 2%;
+    color: grey;
+}
